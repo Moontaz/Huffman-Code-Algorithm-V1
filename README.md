@@ -130,6 +130,7 @@ For inquiries, feedback, or collaboration opportunities, feel free to contact th
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). By contributing to this project, you agree to abide by the terms of this license.
+This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+. By contributing to this project, you agree to abide by the terms of this license.
 
 Thank you for your interest in the Huffman Encoding project. Together, let's make compression and decompression more efficient and accessible!
