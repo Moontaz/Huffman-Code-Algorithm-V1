@@ -128,7 +128,7 @@ For inquiries, feedback, or collaboration opportunities, feel free to contact th
 - Maintainer Name: Muhammad Mumtaz
 - Maintainer Email: riedyriedy283@gmail.com
 
-## License[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## License  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the [MIT License](LICENSE). By contributing to this project, you agree to abide by the terms of this license.
 
