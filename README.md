@@ -56,6 +56,16 @@ python use_decompress.py
 
 This script reads the compressed binary file, reconstructs the Huffman tree, decodes the pixel data, and saves the decompressed image (`dataset_image1_decompressed.jpg`).
 
+### Advantages and Disadvantages
+
+#### Advantages
+1. Only need two file(image dataset, source code for compress and decompress).
+2. Output file from compression just a bin file. It's include binary code of image, pixels, python file for decompress and separated by unique code.
+
+#### Disadvantages
+1. File decompress become bigger than before, i think there are something wrong with binary tree structure for get binary code
+2. Source code is untidy
+
 ## Implementation Details
 
 The Huffman Coding algorithm is implemented in the `HuffmanCoding` class within `huffman_img.py`. Key implementation details include:
