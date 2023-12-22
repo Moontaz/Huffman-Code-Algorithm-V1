@@ -12,9 +12,6 @@ This comprehensive GitHub repository contains a Python implementation of the Huf
 - [Continuous Integration](#continuous-integration)
 - [Documentation](#documentation)
 - [Release Management](#release-management)
-- [Security](#security)
-- [Community](#community)
-- [Future Roadmap](#future-roadmap)
 - [How to Contribute](#how-to-contribute)
 - [Contact](#contact)
 - [License](#license)
@@ -114,18 +111,6 @@ The documentation can be found at [GitHub Pages](https://moontaz.github.io/huffm
 ## Release Management
 
 The repository follows a versioning scheme, and releases are managed through GitHub. Each release includes release notes, summarizing changes and improvements made in that version.
-
-## Security
-
-Security is a top priority. The repository is regularly scanned for vulnerabilities, and any identified issues are promptly addressed. Users are encouraged to report security concerns through the designated channels.
-
-## Community
-
-A community space is established for discussions, questions, and collaboration. Contributors and users can engage in conversations, seek help, and share their experiences related to the Huffman Encoding implementation.
-
-## Future Roadmap
-
-The project roadmap outlines upcoming features, enhancements, and optimizations planned for future releases. Contributors and users are invited to participate in shaping the project's evolution.
 
 ## How to Contribute
 
